@@ -1,0 +1,70 @@
+{
+    "translation": {
+      "domain":"Domaine",
+      "username": "Nom de l'utilisateur",
+      "password":"Mot de passe",
+      "login": "Connexion",
+      "sso":"Connectez-vous avec Azure",
+      "forgotpassword": "Mot de passe oublié",
+      "backToLogin":"Retour à la page de connexion",
+      "userOrEmail": "Nom d'utilisateur ou email",
+    
+      "project":"Projet",
+      "search":"Rechercher",
+      "profile":"Profil",
+      "changepass":"Modifier le mot de passe",
+      "logout":"Déconnexion",
+      
+      "dashboard": "Tableau de bord",
+      "dashboardChat": "Discussion sur le tableau de bord",
+
+      "supplier":"Fournisseur",
+      "contactPerson": "Personne de contact",
+      "function": "Fonction",
+      "email": "Courriel",
+      "phoneNumber": "N° de téléphone",
+      "lang":"Langue",
+      
+      "notification":"Notification",
+      "chat_noti":"discuter",
+      "messages":"Messages",
+      "approvals":"Approbations",
+      "tasks":"Tâche",
+
+      "Tasks not found":"Tâche introuvable",
+      "Planning not found":"Planification introuvable",
+      "Tickets not found":"Billet introuvable",
+      "Document Not Found":"Document introuvable",
+
+      "update":"Mettre à jour",
+
+      "issuerDate": "Date d'émission",
+      "available": "Disponible",
+      "version":"Version",
+      "preVersion":"Version antérieure",
+
+      "oldpass":"Ancien mot de passe",
+      "newpass":"Nouveau mot de passe",
+      "confirmpass":"Confirmer le mot de passe",
+      "save":"Sauvegarder",
+
+      "message":{
+        "invalid": "Nom d'utilisateur ou mot de passe invalide ",
+        "username": "Veuillez saisir votre nom d'utilisateur.",
+        "password":"Veuillez entrer le mot de passe.",
+
+        "person":"Veuillez entrer la personne de contact.",
+        "email":"Veuillez saisir votre courriel.",
+        "phone":"Veuillez entrer le N° de téléphone",
+
+        "profile":"Profil mis à jour avec succès !",
+
+        "validpass":"Le mot de passe doit contenir au moins 6 caractères et des majuscules (A-Z), des minuscules (a-z), des chiffres (0-9) et des caractères spéciaux (par exemple! @ # $% ^ & *)",
+        "old":"L'ancien mot de passe ne correspond pas.",
+        "passnotmatch":"Le mot de passe ne correspond pas !",
+        "passmatch":"Le nouveau mot de passe et le mot de passe de confirmation doivent être identiques.",
+        "oldPassMatch":"Le nouveau mot de passe est le même que l'ancien mot de passe ! Veuillez changer votre mot de passe.",
+        "passchange":"Votre mot de passe a été modifié avec succès !"
+      }
+   }
+}

@@ -1,0 +1,70 @@
+{
+    "translation": {
+      "domain":"Dominio",
+      "username": "Nombre de usuario",
+      "password":"Contraseña",
+      "login": "Acceso",
+      "sso":"Iniciar sesión con Azure",
+      "forgotpassword": "Has olvidado tu contraseña",
+      "backToLogin":"Volver al inicio de sesión",
+      "userOrEmail": "Nombre de usuario o correo electrónico",
+
+      "project":"Proyecto",
+      "search":"Buscar",
+      "profile":"Perfil",
+      "changepass":"Cambiar la contraseña",
+      "logout":"Cerrar sesión",
+      
+      "dashboard": "Panel",
+      "dashboardChat": "Chat del panel",
+
+      "supplier":"Proveedor",
+      "contactPerson": "Persona de contacto",
+      "function": "Función",
+      "email": "Correo electrónico",
+      "phoneNumber": "Número de teléfono",
+      "lang":"Seleccione el idioma.",
+  
+      "notification":"Notificación",
+      "chat_noti":"Charlar",
+      "messages":"Mensajes",
+      "approvals":"Aprobaciones",
+      "tasks":"Tarea",
+
+      "Tasks not found":"Tarea no encontrada",
+      "Planning not found":"Planificación no encontrada",
+      "Tickets not found":"Boleto no encontrado",
+      "Document Not Found":"Documento no encontrado",
+
+      "update":"Actualizar",
+
+      "issuerDate": "Fecha de emisión",
+      "available": "Disponible",
+      "version":"Versión",
+      "preVersion":"Versión anterior",
+
+      "oldpass":"Contraseña anterior",
+      "newpass":"Nueva contraseña",
+      "confirmpass":"Confirmar Contraseña",
+      "save":"Guardar",
+
+      "message":{
+        "invalid": "Nombre de usuario y contraseña inválidos!",
+        "username": "Ingrese el nombre de usuario.",
+        "password":"Por favor, ingrese contraseña.",
+
+        "person":"Por favor ingrese la persona de contacto.",
+        "email":"Por favor ingrese su correo electrónico.",
+        "phone":"Ingrese el número de teléfono.",
+
+        "profile":"El perfil se ha actualizado correctamente.",
+
+        "validpass":"La contraseña debe tener al menos 6 caracteres y mayúsculas (A-Z), minúsculas (a-z), números (0-9) y caracteres especiales (por ejemplo,! @ # $% ^ & *)",
+        "old":"La contraseña anterior no coincide.",
+        "passnotmatch":"¡La contraseña no coincide!",
+        "passmatch":"La nueva contraseña y la contraseña de confirmación deben ser las mismas.",
+        "oldPassMatch":"¡La nueva contraseña es la misma que la anterior! Por favor cambie su contraseña.",
+        "passchange":"¡Su contraseña cambió con éxito!"   
+      }
+   }
+}

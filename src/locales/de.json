@@ -1,0 +1,70 @@
+{
+    "translation": {
+      "domain": "Domain",
+      "username": "Benutzername",
+      "password": "Passwort",
+      "login": "Anmeldung",
+      "sso":"Melden Sie sich mit Azure an",
+      "forgotpassword": "Passwort vergessen",
+      "backToLogin":"Zurück zum Login",
+      "userOrEmail":"Benutzername oder E-Mail-Adresse",
+
+      "project":"Projekt",
+      "search":"Suchen",
+      "profile":"Profil",
+      "changepass":"Passwort ändern",
+      "logout":"Ausloggen",
+      
+      "dashboard": "Instrumententafel",
+      "dashboardChat": "Dashboard-Chat",
+
+      "supplier":"Lieferant",
+      "contactPerson": "Kontaktperson",
+      "function": "Funktion",
+      "email": "E-Mail",
+      "phoneNumber": "Telefonnummer",
+      "lang":"Sprache",
+    
+      "notification":"Benachrichtigung",
+      "chat_noti":"Plaudern",
+      "messages":"Mitteilungen",
+      "approvals":"Zulassungen",
+      "tasks":"Aufgabe",
+
+      "Tasks not found":"Aufgabe nicht gefunden",
+      "Planning not found":"Planung nicht gefunden",
+      "Tickets not found":"Ticket nicht gefunden",
+      "Document Not Found":"Dokument nicht gefunden",
+    
+      "update":"Aktualisieren",
+
+      "issuerDate": "Ausgabetag",
+      "available": "Verfügbar",
+      "version":"Version", 
+      "preVersion":"Vorige Version",
+
+      "oldpass":"Altes Passwort",
+      "newpass":"Neues Passwort",
+      "confirmpass":"Bestätige das Passwort",
+      "save":"speichern",
+
+      "message":{
+        "invalid": "Invalid username or password!",
+        "username":"Bitte geben sie einen Benutzernamen ein.",
+        "password":"Bitte Passwort eingeben.",
+
+        "person":"Bitte geben Sie den Ansprechpartner ein.",
+        "email":"Bitte geben Sie eine E-Mail-Adresse ein.",
+        "phone":"Bitte geben Sie die Telefonnummer ein.",
+
+        "profile":"Profil erfolgreich aktualisiert!",
+
+        "validpass":"Das Passwort muss mindestens 6 Zeichen und Großbuchstaben (A-Z), Kleinbuchstaben (a-z), Zahlen (0-9) und Sonderzeichen (z. B.! @ # $% ^ & *) Bestehen.",
+        "old":"Altes Passwort stimmt nicht überein.",
+        "passnotmatch":"Das Passwort passt nicht!",
+        "oldPassMatch":"Das neue Passwort ist dasselbe wie das alte Passwort! Bitte ändern Sie Ihr Passwort.",
+        "passchange":"Ihr Passwort wurde erfolgreich geändert!",
+        "passmatch":"Neues Passwort und Passwort bestätigen müssen identisch sein."
+      }
+   }
+}

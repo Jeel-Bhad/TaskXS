@@ -1,0 +1,9 @@
+{
+  "name": "XS Project",
+  "displayName": "XS Project",
+  "splash": {
+    "image": "./assets/images/splashScreen1.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#ffffff"
+  }
+}

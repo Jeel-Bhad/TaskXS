@@ -1,0 +1,71 @@
+{
+    "translation": {
+      "domain":"Domain",
+      "username": "Username",
+      "password":"Password",
+      "login": "Login",
+      "sso":"Login With Azure",
+      "forgotpassword": "Forgot Password",
+      "backToLogin": "Back to Login",
+      "userOrEmail": "Username or E-mail",
+
+      "project":"Project",
+      "search":"Search",
+      "profile":"Profile",
+      "changepass":"Change Password",
+      "logout":"Logout",
+      
+      "dashboard": "Dashboard",
+      "dashboardChat": "Dashboard Chat",
+      
+      "supplier":"Supplier",
+      "contactPerson": "Contact Person",
+      "function": "Function",
+      "email": "E-mail",
+      "phoneNumber": "Phone Number",
+      "lang":"Language",
+      "notification":"Notification",
+      "chat_noti":"Chat",
+      "messages":"Messages",
+      "approvals":"Approvals",
+      "tasks":"Tasks",
+
+      "Tasks not found":"Tasks Not Found",
+      "Planning not found":"Planning Not Found",
+      "Tickets not found":"Tickets Not Found",
+      "Document Not Found":"Document Not Found",
+
+      "update":"Update",
+ 
+      "issuerDate": "Issue Date",
+      "available": "Available",
+      "version":"Version",
+      "preVersion":"Previous Version",
+      
+      "oldpass":"Old Password",
+      "newpass":"New Password",
+      "confirmpass":"Confirm Password",
+      "save":"Save",
+
+      "message":{
+        "invalid": "Invalid username or password!",
+        "username":"Please enter username.",
+        "password":"Please enter password.",
+
+        "person":"Please enter contact person.",
+        "email":"Please enter email.",
+        "phone":"Please enter phone number.",
+
+        "profile":"Profile updated successfully!",
+
+        "validpass":"Password must be atleast 6 characters and upper case (A-Z), lower case (a-z), number (0-9) and special character (e.g. !@#$%^&*)",
+        "old":"Old Password doesn't match.",
+        "passnotmatch":"Password doesn't match!",
+        "passmatch":"New password and confirm password must be same.",
+        "oldPassMatch":"The new password is the same as the old password! Please change your password.",
+        "passchange":"Your password changed successfully!"
+        
+      }
+      
+   }
+}

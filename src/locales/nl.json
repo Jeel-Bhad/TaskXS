@@ -1,0 +1,70 @@
+{
+    "translation": {
+      "domain":"Domein",
+      "username": "Gebruikersnaam",
+      "password": "Wachtwoord",
+      "login": "Log in",
+      "sso": "Inloggen met Azure",
+      "forgotpassword": "Wachtwoord vergeten",
+      "backToLogin":"Opnieuw inloggen",
+      "userOrEmail": "Gebruikersnaam of email",
+
+      "project":"Project",
+      "search":"Zoek",
+      "profile":"Profiel",
+      "changepass":"Wijzig Wachtwoord",
+      "logout":"Uitloggen",
+      
+      "dashboard": "Dashboard",
+      "dashboardChat": "Dashboardchat",
+
+      "supplier":"Leverancier",
+      "contactPerson": "Contactpersoon",
+      "function": "Functie",
+      "email": "Email",
+      "phoneNumber": "Telefoonnummer",
+      "lang":"Taal",
+
+      "notification":"Kennisgeving",
+      "chat_noti":"Chatten",
+      "messages":"Berichten",
+      "approvals":"Goedkeuringen",
+      "tasks":"Taak",
+
+      "Tasks not found":"Taak niet gevonden",
+      "Planning not found":"Planning niet gevonden",
+      "Tickets not found":"Ticket niet gevonden",
+      "Document Not Found":"Document niet gevonden",
+
+      "update":"Bijwerken",
+
+      "issuerDate": "Uitgifte datum",
+      "available": "Beschikbaar",
+      "version":"Versie",
+      "preVersion":"Vorige versie",
+
+      "oldpass":"Oud wachtwoord",
+      "newpass":"Nieuw wachtwoord",
+      "confirmpass":"Bevestig wachtwoord",
+      "save":"Opslaan",
+
+      "message":{
+        "invalid": "Ongeldige gebruikersnaam of wachtwoord!",
+        "username": "Voer gebruikersnaam in.",
+        "password":"Voer wachtwoord in alstublieft.",
+
+        "person":"Voer een contactpersoon in.",
+        "email":"Voer uw e-mailadres in.",
+        "phone":"Voer een telefoonnummer in.",
+
+        "profile":"Profiel succesvol bijgewerkt!",
+
+        "validpass":"Wachtwoord moet ten minste 6 tekens lang zijn en hoofdletters (A-Z), kleine letters (a-z), cijfers (0-9) en een speciaal teken (bijv.! @ # $% ^ & *)",
+        "old":"Oud wachtwoord komt niet overeen.",
+        "passnotmatch":"Het wachtwoord komt niet overeen!",
+        "passmatch":"Nieuw wachtwoord en bevestigingswachtwoord moeten hetzelfde zijn.",
+        "oldPassMatch":"Het nieuwe wachtwoord is hetzelfde als het oude wachtwoord! Wijzig uw wachtwoord.",
+        "passchange":"Uw wachtwoord is succesvol gewijzigd!"
+      }
+   }
+}

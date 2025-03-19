@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810581931372",
+    "project_id": "mcdproject-5af26",
+    "storage_bucket": "mcdproject-5af26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810581931372:android:0b350cc28f129c37e5ef49",
+        "android_client_info": {
+          "package_name": "nl.taskxs.taskxsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810581931372-8e559uo6dv1ri1q9ggh15p39c7m0p4mt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchpLpjgBzrUuurYFuV53pIec0x57re-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810581931372-8e559uo6dv1ri1q9ggh15p39c7m0p4mt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "810581931372-2g9uivgelaf0ithpqe8legk8opa4c7ru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.bmdesk.bmdeskapp",
+                "app_store_id": "1613913988"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
